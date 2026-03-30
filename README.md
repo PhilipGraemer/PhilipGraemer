@@ -9,9 +9,9 @@ Future/current work includes work on time series prediction of human Mesenchymal
 
 ### Current projects
 
-- **Controlled CNN–ViT benchmark on LIVECell** — Systematic comparison of eleven architectures (CNNs, ViTs, hierarchical transformers) with matched pretraining conditions. Manuscript in preparation.
-- **PhaseDINO** — Domain-adaptive self-supervised learning for phase contrast microscopy via DINO-style pretraining.
-- **Cross-architecture knowledge distillation** — Investigating why weaker teachers (EVA-02) can outperform stronger ones (EfficientNet-B5) when distilling across architecture families.
+- **Controlled CNN–ViT benchmark on LIVECell**: Systematic comparison of eleven architectures (CNNs, ViTs, hierarchical transformers) with matched pretraining conditions. Manuscript in preparation.
+- **PhaseDINO**: Domain-adaptive self-supervised learning for phase contrast microscopy via DINO-style pretraining.
+- **Cross-architecture knowledge distillation**: Investigating why weaker teachers (EVA-02) can outperform stronger ones (EfficientNet-B5) when distilling across architecture families.
 
 ### Tech
 
