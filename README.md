@@ -2,20 +2,20 @@
 
 PhD student in deep learning for biomedical microscopy at the [University of Strathclyde](https://www.strath.ac.uk/) and at [CeMi](https://glasgow.thecemi.org) jointly with the [University of Glasgow](https://www.gla.ac.uk), supervised by [Dr Giuseppe Di Caprio](https://dicaprio.bioe.strath.ac.uk).
 
-I study how vision architectures learn, transfer, and fail when moved from natural images into biomedical microscopy. My current work shows that previously reported CNN superiority over Vision Transformers on single-cell classification tasks can be an artefact of uncontrolled pretraining, and that standard optimisation recipes can unexpectedly hurt under domain shift. I also found that ViTs such as EVA-02 make excellent distillation teachers for small deployable models such as EN-B0, imparting better dark knowledge than either CNNs or mixed councils of ViTs and CNNs.
+I study how vision architectures learn, transfer, and fail when moved from natural images into biomedical microscopy. My current work shows that previously reported CNN superiority over Vision Transformers on single-cell classification tasks can be an artefact of uncontrolled pretraining, and that standard optimisation recipes can unexpectedly hurt under domain shift. I also found that ViTs such as EVA-02 make excellent distillation teachers for small deployable models such as EN-B0, seemingly imparting better dark knowledge than either CNNs or mixed councils of ViTs and CNNs.
 
-On the other side of my research I am interested in the application of optics to microscopy, especially phase contrast and QPI, as well as in the differentiation and morphology of a variety of human cell types. The goal here is to use microscopy and ML to move through bottlenecks in bio-medical experiments.
+A second strand of my research concerns microscopy and cell biology more directly, especially phase contrast imaging, quantitative phase imaging (QPI), and the morphology and differentiation of human cell types. The broader aim is to use microscopy and machine learning to overcome bottlenecks in biomedical experiments.
 
-Future/current projects includes work on time series prediction of human Mesenchymal Stem Cell differentiation, label-free prediction of cell transfection and cell senescence, and in-domain vs cross-domain SSL Dino for classification.
+Future an current projects include work on time series prediction of human Mesenchymal Stem Cell differentiation, label-free prediction of cell transfection and cell senescence, and in-domain vs cross-domain SSL DINO for classification.
 
 
 ### Current projects
 
 - **Controlled CNN–ViT benchmark on LIVECell**: Systematic comparison of eleven architectures (CNNs, ViTs, hierarchical transformers) with matched pretraining conditions. Manuscript in preparation. 📊
-- **Building new single cell datasets**: Building in house datasets of phase contrast, QPI and DIC microscopy accross different microscopes, different settings, different days, different facilities and different cell types. For assessing single-cell classification more realistically and testing robustness. 🔬
-- **Differentiation Time Series Prediction**: Collecting data and testing pipelines for predicting differentiation of pluripotent human mesenchymal stem cells into chrondrocytes, adipocytes and osteoblasts. 🧫
+- **Building new single cell datasets**: Building in-house datasets of phase contrast, QPI and DIC microscopy across different microscopes, different settings, different days, different facilities and different cell types. For assessing single-cell classification more realistically and testing robustness. 🔬
+- **Differentiation Time Series Prediction**: Collecting data and testing pipelines for predicting differentiation of pluripotent human mesenchymal stem cells into chondrocytes, adipocytes and osteoblasts. 🧫
 - **PhaseDINO**: Domain-adaptive self-supervised learning for phase contrast microscopy via DINO-style pretraining.🦖
-- **Cross-architecture knowledge distillation**: Investigating how weaker teachers can outperform stronger ones when distilling across architecture families. How do ViTs and CNNs differ in assessing uncertainty? ⚗️
+- **Cross-architecture knowledge distillation**: investigating when weaker teachers can outperform stronger ones across architecture families, and how ViTs and CNNs differ in uncertainty and transfer. ⚗️
 
 ### Tech
 
