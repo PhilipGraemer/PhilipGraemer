@@ -15,7 +15,7 @@ Future/current work includes work on time series prediction of human Mesenchymal
 - **Building new single cell datasets**: Building in house datasets of phase contrast, QPI and DIC microscopy accross different microscopes, different settings, different days, different facilities and different cell types. For assessing single-cell classification more realistically and testing robustness. 🔬
 - **Differentiation Time Series Prediction**: Collecting data and testing pipelines for predicting differentiation of pluripotent human mesenchymal stem cells into chrondrocytes, adipocytes and osteoblasts. 🧫
 - **PhaseDINO**: Domain-adaptive self-supervised learning for phase contrast microscopy via DINO-style pretraining.🦖
-- **Cross-architecture knowledge distillation**: Investigating how weaker teachers can outperform stronger ones when distilling across architecture families. How do ViTs and CNNs differ in assessing uncertainty and forming dark knowledge? ⚗️
+- **Cross-architecture knowledge distillation**: Investigating how weaker teachers can outperform stronger ones when distilling across architecture families. How do ViTs and CNNs differ in assessing uncertainty? ⚗️
 
 ### Tech
 
