@@ -1,8 +1,11 @@
 # Philip Graemer
 
-PhD student in deep learning for biomedical microscopy at the [University of Strathclyde](https://www.strath.ac.uk/) (jointly with the University of Glasgow), supervised by [Dr Giuseppe Di Caprio](https://dicaprio.bioe.strath.ac.uk).
+PhD student in deep learning for biomedical microscopy at the [University of Strathclyde](https://www.strath.ac.uk/) and at [CeMi](https://glasgow.thecemi.org) jointly with the[University of Glasgow](https://www.gla.ac.uk), supervised by [Dr Giuseppe Di Caprio](https://dicaprio.bioe.strath.ac.uk).
 
-I study how vision architectures learn, transfer, and fail when moved from natural images into biomedical microscopy. My current work shows that previously reported CNN superiority over Vision Transformers on single-cell classification is an artefact of uncontrolled pretraining — and that standard optimisation recipes like layer-wise learning rate decay can unexpectedly hurt under domain shift.
+I study how vision architectures learn, transfer, and fail when moved from natural images into biomedical microscopy. My current work shows that previously reported CNN superiority over Vision Transformers on single-cell classification can be an artefact of uncontrolled pretraining, and that standard optimisation recipes like layer-wise learning rate decay can unexpectedly hurt under domain shift. I also found that ViTs such as EVA-02 make excellent distillation teachers for small deployable models such as EN-B0, imparting better dark knowledge than CNNs.
+
+Future/current work includes work on time series prediction of human Mesenchymal Stem Cell differentiation and in-domain vs cross-domain SSL Dino for classification.
+
 
 ### Current projects
 
