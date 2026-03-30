@@ -11,11 +11,11 @@ Future/current work includes work on time series prediction of human Mesenchymal
 
 ### Current projects
 
-- **Controlled CNN–ViT benchmark on LIVECell**: Systematic comparison of eleven architectures (CNNs, ViTs, hierarchical transformers) with matched pretraining conditions. Manuscript in preparation.
-- **Building new single cell datasets**: Building in house datasets of phase contrast, QPI and DIC microscopy accross different microscopes, different settings, different days, different facilities and different cell types. For assessing single-cell classification more realistically and testing robustness.
-- **Differentiation Time Series Prediction**: Collecting data and testing pipelines for prediction differentiation of pluripotent human mesenchymal stem cells into chrondrocytes, adipocytes and osteoblasts.
-- **PhaseDINO**: Domain-adaptive self-supervised learning for phase contrast microscopy via DINO-style pretraining.
-- **Cross-architecture knowledge distillation**: Investigating why weaker teachers (EVA-02) can outperform stronger ones (EfficientNet-B5) when distilling across architecture families.
+- **Controlled CNN–ViT benchmark on LIVECell**: Systematic comparison of eleven architectures (CNNs, ViTs, hierarchical transformers) with matched pretraining conditions. Manuscript in preparation. 📊
+- **Building new single cell datasets**: Building in house datasets of phase contrast, QPI and DIC microscopy accross different microscopes, different settings, different days, different facilities and different cell types. For assessing single-cell classification more realistically and testing robustness. 🔬
+- **Differentiation Time Series Prediction**: Collecting data and testing pipelines for prediction differentiation of pluripotent human mesenchymal stem cells into chrondrocytes, adipocytes and osteoblasts. 🧫
+- **PhaseDINO**: Domain-adaptive self-supervised learning for phase contrast microscopy via DINO-style pretraining.🦖
+- **Cross-architecture knowledge distillation**: Investigating why weaker teachers (EVA-02) can outperform stronger ones (EfficientNet-B5) when distilling across architecture families. ⚗️
 
 ### Tech
 
