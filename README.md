@@ -4,6 +4,8 @@ PhD student in deep learning for biomedical microscopy at the [University of Str
 
 I study how vision architectures learn, transfer, and fail when moved from natural images into biomedical microscopy. My current work shows that previously reported CNN superiority over Vision Transformers on single-cell classification can be an artefact of uncontrolled pretraining, and that standard optimisation recipes like layer-wise learning rate decay can unexpectedly hurt under domain shift. I also found that ViTs such as EVA-02 make excellent distillation teachers for small deployable models such as EN-B0, imparting better dark knowledge than CNNs.
 
+On the other side of my research I am interested in the optics of microscopy, especially phase contrast and QPI, as well as in the differentiation and morphology of a variety of human cell types.
+
 Future/current work includes work on time series prediction of human Mesenchymal Stem Cell differentiation and in-domain vs cross-domain SSL Dino for classification.
 
 
