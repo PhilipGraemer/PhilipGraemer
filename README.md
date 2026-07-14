@@ -16,7 +16,7 @@ A second strand of my research concerns microscopy and cell biology more directl
 - **Building new single cell datasets**: Building in-house datasets of phase contrast, QPI and DIC microscopy across different microscopes, different settings, different days, different facilities and different cell types. For assessing single-cell classification more realistically and testing robustness. 🔬
 - **Differentiation Time Series Prediction**: Collecting data and testing pipelines for predicting differentiation of pluripotent human mesenchymal stem cells into chondrocytes, adipocytes and osteoblasts. 🧫
 - **PhaseDINO**: Domain-adaptive self-supervised learning for phase contrast microscopy via DINO-style pretraining.🦖
-- **Cross-architecture knowledge distillation**: investigating when weaker teachers can outperform stronger ones across architecture families, and how ViTs and CNNs differ in uncertainty and transfer. ⚗️
+- **Cross-architecture knowledge distillation**: investigating when weaker teachers can outperform stronger ones across architecture families, and how ViTs and CNNs differ in uncertainty and transfer. ⚗️ 🐛>🦋
 
 ### Tech
 
