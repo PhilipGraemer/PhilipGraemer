@@ -6,8 +6,6 @@ PhD researcher in deep learning for biomedical microscopy at the
 [University of Glasgow](https://www.gla.ac.uk/), supervised by
 [Dr Giuseppe Di Caprio](https://dicaprio.bioe.strath.ac.uk).
 
-PhD student in deep learning for biomedical microscopy at the [University of Strathclyde](https://www.strath.ac.uk/) and at [CeMi](https://glasgow.thecemi.org) jointly with the [University of Glasgow](https://www.gla.ac.uk), supervised by [Dr Giuseppe Di Caprio](https://dicaprio.bioe.strath.ac.uk).
-
 I study how vision architectures learn, transfer, and fail when moved from natural images into biomedical microscopy. 
 
 My current work shows that previously reported CNN superiority over Vision Transformers on single-cell classification tasks can be an artefact of uncontrolled pretraining, and that standard optimisation recipes can unexpectedly hurt under domain shift. I also found that ViTs such as EVA-02 make excellent distillation teachers for small deployable models, seemingly imparting better dark knowledge than either CNNs or mixed councils of ViTs and CNNs. I am also interested in efficient deployment. Teacher-council knowledge
